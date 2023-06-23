@@ -26,8 +26,7 @@ In the event that you discover a vulnerability, we kindly request that you follo
     - A patch that fixes the issue.
 
 3. **Wait for us to respond**. We strive to respond to security reports within 48 hours. 
-
-We kindly ask you to respect the time and effort it takes to investigate and patch vulnerabilities. With your cooperation, we can address security issues effectively and maintain the safety of our users.
+    We kindly ask you to respect the time and effort it takes to investigate and patch vulnerabilities. With your cooperation, we can address security issues effectively and maintain the safety of our users.
 
 ## Security Update Process
 
