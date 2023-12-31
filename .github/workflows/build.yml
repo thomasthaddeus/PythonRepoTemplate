@@ -1,0 +1,28 @@
+name: Build and Test
+
+on:
+  push:
+    branches:
+      - main  # You can specify the branch you want to trigger the workflow on
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # You can choose a different operating system if needed
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x  # Specify your Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # Install your project's dependencies
+
+      - name: Run tests
+        run: |
+          pytest  # Replace with your test command

@@ -2,21 +2,26 @@
 
 One or two paragraphs providing an overview of your project.
 
-Essentially, this is your chance to explain your project's what, why, and how. 
+Essentially, this is your chance to explain your project's what, why, and how.
 
-## Table of Contents
+<details><summary><h2>Table of Contents</h2></summary>
 
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installing](#installing)
-- [Running the tests](#running-the-tests)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Project Title](#project-title)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installing](#installing)
+    - [Running the tests](#running-the-tests)
+      - [Break down into end-to-end tests](#break-down-into-end-to-end-tests)
+      - [And coding style tests](#and-coding-style-tests)
+    - [Deployment](#deployment)
+    - [Built With](#built-with)
+    - [Contributing](#contributing)
+    - [Versioning](#versioning)
+    - [Authors](#authors)
+    - [License](#license)
+    - [Acknowledgments](#acknowledgments)
+
+</details>
 
 ## Getting Started
 
@@ -94,17 +99,10 @@ See also the list of contributors who participated in this project.
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ### Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-This template provides a broad structure that you can tailor to your specific project. Remember, your README should make it as easy as possible for others to understand what your project does, how to install it, and how to use it. 
-This template includes many sections that are commonly found in README files. However, you should tailor the template to meet the needs of your specific project.
-Not all sections may be necessary, and you may want to include additional sections that are relevant to your project.
-For example, if your project has a lot of code, you might want to add a `Code Overview` section. If your project is complex, you might want to add a `Project Structure` section.
-
-Always update your README file as your project evolves. A well-maintained README is key to engaging your audience and helping your project grow.

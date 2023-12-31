@@ -1,0 +1,14 @@
+[project]
+name = "my_package"
+version = "1.0.0"
+description = "A description of your package"
+authors = ["Thaddeus Thomas <thaddeus.r.thomas@gmail.com>"]
+homepage = "https://github.com/thomasthaddeus/my_package"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+# Add your package dependencies here
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
